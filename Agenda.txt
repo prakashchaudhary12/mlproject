@@ -1,0 +1,22 @@
+Agenda
+
+1 - Set up GitHub {Repository} (ok)
+ a) New Environment (ok)
+ b) setup.py (Mini Project Structure)( Build package using setup.py) (ok)
+ c) requirement.txt (ok)
+
+2. src folder and build the package (ok)
+
+
+a) Go to the mlproject path in anaconda prompt
+then write code . to get vs code instance
+Fist things I'll do that I'll sync with my GitHub repository
+Open the terminal in vsCode then Create a Environment
+conda create -p venv python==3.8 -y   
+conda activate venv/
+Clone with Github  repository
+
+b)
+
+
+
