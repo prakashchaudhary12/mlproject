@@ -16,7 +16,11 @@ conda create -p venv python==3.8 -y
 conda activate venv/
 Clone with Github  repository
 
-b)
+3) Project Problem Statement,EDA And Model Training
+4) Data Ingestion Implementation
+
+
+
 
 
 
