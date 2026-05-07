@@ -21,6 +21,22 @@ Clone with Github  repository
 
 
 
+Azure deployment
+1. Container Registry
+2. Docker set up in local and push Container registry
+3. Azure Web app with Container
+4. Configured the github deployment center
+
+
+testdockerprakash.azurecr.io
+3kB2owsZl4ZAiOYwWSV5aYzRBEZes42zTHnWnX1Foy4g5kYSr0vkJQQJ99CEACYeBjFEqg7NAAACAZCRhzjK
+
+Run from Terminal
+docker build -t testdockerprakash.azurecr.io/studnetperformance:latest .
+docker login testdockerprakash.azurecr.io
+docker push testdockerprakash.azurecr.io/studnetperformance:latest
+
+
 
 
 
