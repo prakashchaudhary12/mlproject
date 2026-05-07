@@ -50,6 +50,7 @@ class DataTransformation:
                     ("imputer",SimpleImputer(strategy="most_frequent")),
                     ("one_hot_encoder",OneHotEncoder()),
                     
+                    
                 ]    
             )   
             logging.info("Numerical columns standard scaling completd")
